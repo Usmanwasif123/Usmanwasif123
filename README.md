@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Usman Wasif and I'm a software developer with 1 year of experience.</p>
+<p align="left">My name is Usman Wasif and I'm a software developer with 2+ year of experience.</p>
 
 ###
 
