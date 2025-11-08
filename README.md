@@ -105,8 +105,10 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-   <img width="12" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ThreeJS-Light.svg" height="40" alt="threejs" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" height="40" alt="gitlab" />
 </div>
 
 ###
