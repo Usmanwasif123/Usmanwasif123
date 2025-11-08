@@ -25,9 +25,6 @@ Whenever I’m free, I enjoy sharing insights, experiments, and personal learnin
   <a href="https://x.com/usmanwasif9" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
   </a> 
-  <a href="https://www.lazycoder.tech" target="_blank">
-    <img alt="LazyCoder" src="https://img.shields.io/badge/LazyCoder-B57EDC.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" />
-  </a>
   <a href="hhttps://usmanwasif123.github.io/portfolio/" target="_blank">
      <img alt="portfolio" src="https://img.shields.io/badge/portfolio-219ebc.svg?&style=for-the-badge&logo=foodpanda&logoColor=white" />
   </a>
