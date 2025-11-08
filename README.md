@@ -55,7 +55,6 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <g xmlns="http://www.w3.org/2000/svg" transform="translate(2400, 0)">
           <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
 <rect width="256" height="256" rx="60" fill="white"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M93.213 222.94L50 48L223.23 97.874L93.213 222.94Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>
@@ -65,8 +64,6 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M179.663 85.2598L190.387 128.725L147.379 116.379L179.663 85.2598Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M115.108 147.39L125.832 190.855L82.824 178.509L115.108 147.39Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linejoin="round"/>
 </svg>
-
-        </g>
 </div>
 
 ###
