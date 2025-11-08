@@ -28,6 +28,7 @@ Whenever I’m free, I enjoy sharing insights, experiments, and personal learnin
    <a href="https://usmanwasif123.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
      <img alt="portfolio" src="https://img.shields.io/badge/portfolio-219ebc.svg?&style=for-the-badge&logo=foodpanda&logoColor=white" />
    </a>
+</p>
 <hr />
 
 <h2 align="left">Frontend Projects</h2>
