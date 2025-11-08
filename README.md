@@ -208,21 +208,6 @@ Whenever I’m free, I enjoy sharing insights, experiments, and personal learnin
 
 ###
 
-<h2 align="left">Places to Find Me</h2>
-
-###
-
-<div align="center" style="width: 130px;">
-  <a href='https://www.linkedin.com/in/usman-w-anwar-800b8718b/'>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt='Linkedin'/>
-  </a>
-   <a href='https://x.com/usmanwasif9'>
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt='Twitter'/>
-  </a>
-</div>
-
-###
-
 <p align="left"></p>
 
 ###
