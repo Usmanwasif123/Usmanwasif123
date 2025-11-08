@@ -16,18 +16,18 @@ Whenever I’m free, I enjoy sharing insights, experiments, and personal learnin
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/usman-wasif-800b8718b/" target="_blank"> 
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a> 
-  <a href="https://www.coursera.org/user/6f95830c50703e851919cd5d08e8eb82" target="_blank">
-    <img alt="Coursera" src="https://img.shields.io/badge/coursera-0070FF.svg?&style=for-the-badge&logo=coursera&logoColor=white" />
-  </a>
-  <a href="https://x.com/usmanwasif9" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
-  </a> 
-  <a href="hhttps://usmanwasif123.github.io/portfolio/" target="_blank">
+   <a href="https://www.linkedin.com/in/usman-wasif-800b8718b/" target="_blank" rel="noopener noreferrer"> 
+       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+   </a> 
+   <a href="https://www.coursera.org/user/6f95830c50703e851919cd5d08e8eb82" target="_blank" rel="noopener noreferrer">
+     <img alt="Coursera" src="https://img.shields.io/badge/coursera-0070FF.svg?&style=for-the-badge&logo=coursera&logoColor=white" />
+   </a>
+   <a href="https://x.com/usmanwasif9" target="_blank" rel="noopener noreferrer">
+     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
+   </a> 
+   <a href="https://usmanwasif123.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
      <img alt="portfolio" src="https://img.shields.io/badge/portfolio-219ebc.svg?&style=for-the-badge&logo=foodpanda&logoColor=white" />
-  </a>
+   </a>
 <hr />
 
 <h2 align="left">Frontend Projects</h2>
