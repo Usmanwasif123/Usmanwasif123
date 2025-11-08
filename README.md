@@ -1,14 +1,37 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+### Hey there, thanks for dropping in! 👋
 
-###
+<p>
+I’m a self-taught developer with hands-on experience across the full stack with 3 year of experience, and I genuinely enjoy bringing ideas to life through code. For me, building software feels a lot like crafting — every feature, animation, and interaction is a chance to blend logic with creativity.
 
-<p align="left">My name is Usman Wasif and I'm a software developer with 2+ year of experience.</p>
+I don’t just aim to ship projects — I love shaping meaningful solutions that are practical, user-friendly, and fun to explore.
 
-###
+Recently, I’ve been diving into the world of 3D experiences and modern web tooling, pushing apps to feel more immersive and intelligent.
 
-<p align="left">Primarily a front-end developer on a quest to discover the ultimate JavaScript framework—where innovation meets perfection 😊</p>
+Whenever I’m free, I enjoy sharing insights, experiments, and personal learnings with the community.
 
-###
+</p>
+
+<p>
+   <b>You can find me on: </b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/usman-wasif-800b8718b/" target="_blank"> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> 
+  <a href="https://www.coursera.org/user/6f95830c50703e851919cd5d08e8eb82" target="_blank">
+    <img alt="Coursera" src="https://img.shields.io/badge/coursera-0070FF.svg?&style=for-the-badge&logo=coursera&logoColor=white" />
+  </a>
+  <a href="https://x.com/usmanwasif9" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
+  </a> 
+  <a href="https://www.lazycoder.tech" target="_blank">
+    <img alt="LazyCoder" src="https://img.shields.io/badge/LazyCoder-B57EDC.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  </a>
+  <a href="hhttps://usmanwasif123.github.io/portfolio/" target="_blank">
+     <img alt="portfolio" src="https://img.shields.io/badge/portfolio-219ebc.svg?&style=for-the-badge&logo=foodpanda&logoColor=white" />
+  </a>
+<hr />
 
 <h2 align="left">Frontend Projects</h2>
 <div align="left" style="width: 130px;">
