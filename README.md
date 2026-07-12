@@ -1,7 +1,7 @@
 ### Hey there, thanks for dropping in! 👋
 
 <p>
-I’m a self-taught developer with hands-on experience across the full stack with 3 year of experience, and I genuinely enjoy bringing ideas to life through code. For me, building software feels a lot like crafting — every feature, animation, and interaction is a chance to blend logic with creativity.
+I’m a self-taught developer with hands-on experience across the software engineer with 3 year of experience, and I genuinely enjoy bringing ideas to life through code. For me, building software feels a lot like crafting — every feature, animation, and interaction is a chance to blend logic with creativity.
 
 I don’t just aim to ship projects — I love shaping meaningful solutions that are practical, user-friendly, and fun to explore.
 
