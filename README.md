@@ -131,7 +131,7 @@ Whenever I’m free, I enjoy sharing insights, experiments, and personal learnin
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" height="40" alt="gitlab" />
       <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" height="40" alt="sentry logo" />
 </div>
 
 ###
@@ -185,8 +185,7 @@ Whenever I’m free, I enjoy sharing insights, experiments, and personal learnin
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" height="40" alt="sentry logo" />         
 </div>
 
 ###
