@@ -210,7 +210,12 @@ Whenever I’m free, I enjoy sharing insights, experiments, and personal learnin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="nest logo" />
+   <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+    <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo" />
           
+              
 </div>
 
 ###
