@@ -181,7 +181,7 @@ Whenever I’m free, I enjoy sharing insights, experiments, and personal learnin
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
